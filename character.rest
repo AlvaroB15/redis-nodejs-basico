@@ -1,0 +1,4 @@
+GET http://localhost:5001/character
+
+###
+GET http://localhost:5001/character/2
